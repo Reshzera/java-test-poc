@@ -5,13 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class JavaTestPocApplicationTests {
-
 	@Test
 	void contextLoads() {
-
 	}
-
-
-
-
 }
